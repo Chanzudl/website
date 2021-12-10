@@ -8,7 +8,7 @@ on:
   pull_request:
     types: [opened, synchronize, reopened]
     branches:
-      - master
+      - main
       - dev
       - updates_tu
 jobs:
