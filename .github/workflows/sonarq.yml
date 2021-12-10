@@ -2,7 +2,7 @@ name: Sonarcloud_Scanner
 on:
   push:
     branches:
-      - master
+      - main
       - dev
       - updates_tu
   pull_request:
